@@ -1,0 +1,6 @@
+{
+	"functions": {
+		"codebase": "gpt-chat-completion-stream",
+		"predeploy": ["npm --prefix \"$RESOURCE_DIR\" run lint"]
+	}
+}

@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: gpt-chat-completion-stream
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Anton
+    family-names: Sychev
+    email: anton@sychev.xyz
+repository-code: "https://github.com/klich3/firebase-gpt-chat-completion.git"
+abstract: GPT Chat Completion Stream Cloud Functions for Firebase
+keywords:
+  - gpt
+  - stream
+  - chatGPT
+  - firebase
+  - functions
+license: MIT
+version: 0.1.0
