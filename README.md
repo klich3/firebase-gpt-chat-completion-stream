@@ -92,5 +92,14 @@ const callPrompt = (e:any) => {
 	<h1>Response</h1>
 	<div>{responseChunk}</div>
 </>
-
 ```
+
+---
+
+# BEWARE <h1>⚠️</h1>
+
+This method may no longer be functional as the LangChain package is updated daily.
+
+If you feel like collaborating you can create Pull Request...
+
+
